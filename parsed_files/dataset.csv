@@ -1,0 +1,2 @@
+scrape_time,scrape_time_year,scrape_time_month,scrape_time_day,low_gas,avg_gas,high_gas,first_wallet,first_gas_value_usd,first_gas_value_eth,sec_wallet,sec_gas_value_usd,sec_gas_value_eth,third_wallet,third_gas_value_usd,third_gas_value_eth
+20230928121124,2023,9,8,33,34,36,Uniswap: Universal Router,44117.67,26.65,Uniswap V2: Router 2,55687.93,33.64,Tether: USDT Stablecoin,28386.52,17.15
